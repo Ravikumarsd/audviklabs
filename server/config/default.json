@@ -1,0 +1,4 @@
+{
+  "CONNECTION_URL": "mongodb+srv://dev-ranking:12345@cluster0.gyesf.mongodb.net/heirarchy?retryWrites=true&w=majority",
+  "PORT": 8000
+}
